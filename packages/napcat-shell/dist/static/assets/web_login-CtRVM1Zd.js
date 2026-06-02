@@ -1,0 +1,1 @@
+import{h as t}from"./codemirror-core-W1BP9iAi.js";import{u as a,k as r}from"./index-BGjjiBhg.js";import{u as n}from"./react-router-dom-x8eF_sA0.js";import"./react-dom-4A1cBAwG.js";import"./react-hot-toast-7xpIofDc.js";function m(){const o=n(),[,e]=a(r.token,"");return t.useEffect(()=>{e("nop"),o("/qq_login",{replace:!0})},[]),null}export{m as default};
